@@ -9,7 +9,7 @@ Over the course of five years, I have dedicated myself to the art of coding and 
 * 🌍  I'm based in Ottawa, Ontario, Canada
 * ✉️  You can contact me at [adrimjal@gmail.com](mailto:adrimjal@gmail.com)
 * 🧠  My skills include C#, ASP.NET, and Network Operation System
-* 🤝  I'm open to collaborating on Project
+* 🤝  I am open to collaborating on software application projects.
 
 <a href="https://www.github.com/adrimaji040" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/adrimaji040?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
