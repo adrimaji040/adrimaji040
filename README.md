@@ -4,10 +4,10 @@ Hi 👋 My name is Adriana Jimenez
 Web Developer and Internet Applications
 ---------------------------------------
 
-Over the course of five years, I have dedicated myself to the art of coding and discovered a growing interest in web development. As a front-end or back-end developer, I have had the pleasure of working with various programming languages, including HTML, CSS, Bootstrap, JavaScript, relational databases, and Python. I am committed to continuously improving my skills and look forward to contributing to the ever-evolving field of technology.
+Over the course of five years, I have dedicated myself to the art of coding and discovered a growing interest in web development. As a front-end and back-end developer, I have had the pleasure of working with various programming languages, including HTML, CSS, Bootstrap, JavaScript, relational databases, and Python. I am committed to continuously improving my skills and look forward to contributing to the ever-evolving field of technology. Currently, I am a student of Web development & Internet Applications at Algonquin College, Ottawa, ON, Canada.
 
 * 🌍  I'm based in Ottawa, Ontario, Canada
-* ✉️  You can contact me at [adrimjal@gmail.com](mailto:adrimjal@gmail.com)
+* ✉️  You can contact me at [adrimjal@gmail.com](mailto:adrimjal@gmail.com) | adrimaji040@gmail.com
 * 🧠  My skills include C#, ASP.NET, and Network Operation System
 * 🤝  I am open to collaborating on software application projects.
 
